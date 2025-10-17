@@ -35,11 +35,8 @@ RegisterNumber:25015509
 ```
 
 ## Output:
-(i)
-<img width="1270" height="405" alt="Screenshot 2025-10-17 111052" src="https://github.com/user-attachments/assets/83beef10-178c-4313-87a3-c0ff28c6ef8f" />
+<img width="1270" height="405" alt="Screenshot 2025-10-17 111052" src="https://github.com/user-attachments/assets/8c22fd6d-4ec6-4c67-b1d0-a79d29e10f4e" />
 
-(ii)
-<img width="1236" height="186" alt="Screenshot 2025-10-17 112138" src="https://github.com/user-attachments/assets/d95cead0-aded-4009-ab4d-e8be2320fd45" />
 
 
 
